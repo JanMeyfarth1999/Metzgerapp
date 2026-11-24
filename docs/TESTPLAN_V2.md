@@ -1,0 +1,11 @@
+# Testplan 2.0
+- Startseite: fünf große Aktionen, Fachfunktionen nur unter Mehr.
+- Schlachtung Schwein, 80 kg verwertbar, 240 € Tier, 120 € Schlachtung, 40 € weitere Kosten.
+- Produkt A: 30 kg Rohware, 30 € zusätzlich, 25 kg fertig, 12 €/kg netto. Produkt B: 40 kg Rohware, 20 € zusätzlich, 36 kg fertig, 10 €/kg netto. Erwartet: 10 kg frei, 5 €/kg gemeinsame Kosten, 450 € Gesamtkosten, 660 € möglicher Umsatz, 210 € kalkuliertes Ergebnis. A: 180 € Kosten.
+- Weitere 11 kg dürfen nicht übernommen werden. Zwischenstand speichern, neu öffnen, ändern, speichern.
+- Rezept mit 0,8 kg eigenem Fleisch, 0,2 kg zugekauftem Fett à 5 €/kg, 20 g Gewürz à 10 €/kg. 8 kg eigenes Fleisch auswählen und Fett abwählen. Erwartet: 8 kg eigenes Fleisch, 2 kg Zukauf, 200 g Gewürz, 12 € Zusatzkosten. Keine erneute Berechnung des eigenen Fleischpreises.
+- Fehlende Preise, Endgewicht oder Verkaufspreis: kein vollständiges Ergebnis vortäuschen.
+- Alle 15 Vorlagen sichtbar; neues Rezept mit freier Zutat, gespeichertem Preis, Güteklasse und Anleitung anlegen; App schließen, neu öffnen.
+- Einzelkalkulation speichern, alte Historie öffnen; Einstellungen, Qualität, Hygiene und HVO weiterhin erreichbar.
+- Backup V1 importieren, V2-Schlachtung anlegen, Backup V2 exportieren und wiederherstellen. PDF lokal speichern. Im Flugmodus testen.
+- Release-Prüfung: fachliche Regeln, Gerätesicherheit, dauerhafte APK-Signatur, Praxisbedienung.
